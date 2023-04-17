@@ -63,21 +63,7 @@ Kernel Density Estimation (KDE) is a widely used technique in statistics and mac
 
 ## Definition
 
-KDE can be defined as the sum of kernel functions centered at each data point. Mathematically, the kernel density estimate for a given point x is:
-
-where:
-
-is the number of data points
-
-is thedata point
-
-is the kernel function
-
-is the bandwidth
-
-When the bandwidth matrix is simplified to a single parameter, the familiar form is obtained:
-
-The multidimensional kernel function can be represented by the product of kernel functions in each dimension:
+Please ask Dawei Li or Google.
 
 ## Kernel Functions
 
@@ -91,7 +77,6 @@ The kernel function K is a symmetric, non-negative function that integrates to o
 4.  Simplicity: The EP kernel has a simple mathematical form, making it easy to implement and understand.
 5.  Faster convergence rate: The EP kernel has a faster convergence rate compared to some other kernel functions, such as the Gaussian kernel, which can lead to more accurate density estimates when using a finite sample size.
 
-    The three-dimension Epanechnikov Kernel is: (whenis in the range of)
 
 ## Gaussian Filter
 
