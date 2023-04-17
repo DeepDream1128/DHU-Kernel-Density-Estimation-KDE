@@ -1,11 +1,5 @@
-# KDE(Kernel Density Estimation)
+# KDE(Kernel Density Estimation) (Star it!)
 
-211440128 赵伯远
-
-210995119 吴文博
-
-**  
-**
 
 Contents
 
